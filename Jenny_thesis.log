@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.22)  29 JUN 2015 23:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.22)  1 JUL 2015 00:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -431,4 +431,208 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
 
 <cover.pdf, id=1, 597.55246pt x 845.07718pt>
-File: cove
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf>
+Package pdftex.def Info: cover.pdf used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf>
+Package pdftex.def Info: cover.pdf used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+<cover.pdf, id=4, page=1, 597.55246pt x 845.07718pt>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: cover.pdf Graphic file (type pdf)
+
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+<figure/nthu-logo.pdf, id=5, 203.25937pt x 164.11313pt>
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 59.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [1
+
+
+Non-PDF special ignored! <./figure/nthu-logo.pdf> <./cover.pdf>]
+LaTeX Font Info:    Try loading font information for U+lasy on input line 82.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 82.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <abstract_ch.pdf, id=34
+, 597.55246pt x 845.07718pt>
+File: abstract_ch.pdf Graphic file (type pdf)
+ <use abstract_ch.pdf>
+Package pdftex.def Info: abstract_ch.pdf used on input line 88.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: abstract_ch.pdf Graphic file (type pdf)
+
+<use abstract_ch.pdf>
+Package pdftex.def Info: abstract_ch.pdf used on input line 88.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+<abstract_ch.pdf, id=37, page=1, 597.55246pt x 845.07718pt>
+File: abstract_ch.pdf Graphic file (type pdf)
+
+<use abstract_ch.pdf, page 1>
+Package pdftex.def Info: abstract_ch.pdf, page1 used on input line 88.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: abstract_ch.pdf Graphic file (type pdf)
+ <use abstract_ch.pdf, page 1>
+Package pdftex.def Info: abstract_ch.pdf, page1 used on input line 88.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: abstract_ch.pdf Graphic file (type pdf)
+
+<use abstract_ch.pdf, page 1>
+Package pdftex.def Info: abstract_ch.pdf, page1 used on input line 88.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: abstract_ch.pdf Graphic file (type pdf)
+ <use abstract_ch.pdf, page 1>
+Package pdftex.def Info: abstract_ch.pdf, page1 used on input line 88.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 88.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+File: abstract_ch.pdf Graphic file (type pdf)
+ <use abstract_ch.pdf, page 1>
+Package pdftex.def Info: abstract_ch.pdf, page1 used on input line 88.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [1 <./abstract_ch.pdf>] (./abstract.tex
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 7.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [2]) (./ack.tex
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 17.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [3]) (./Jenny_thesis.toc)
+\tf@toc=\write3
+\openout3 = `Jenny_thesis.toc'.
+
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 100.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [4
+
+] (./Jenny_thesis.lof)
+\tf@lof=\write4
+\openout4 = `Jenny_thesis.lof'.
+
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 103.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+
+[5
+
+
+] (./Jenny_thesis.lot)
+\tf@lot=\write5
+\openout5 = `Jenny_thesis.lot'.
+
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 106.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [6
+
+
+] (./Jenny_thesis.loa)
+\tf@loa=\write6
+\openout6 = `Jenny_thesis.loa'.
+
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 109.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [7
+
+
+] (./introduction.tex
+Chapter 1.
+) (./background.tex
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 1.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [1
+
+
+]
+Chapter 2.
+) (./conclusion.tex
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 1.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [2
+
+]
+Chapter 3.
+) (./Jenny_thesis.bbl
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+ <use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 1.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [3
+
+])
+File: figure/nthu-logo.pdf Graphic file (type pdf)
+
+<use figure/nthu-logo.pdf>
+Package pdftex.def Info: figure/nthu-logo.pdf used on input line 134.
+(pdftex.def)             Requested size: 179.25957pt x 144.7355pt.
+ [4
+
+] (./Jenny_thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 5495 strings out of 493304
+ 78997 string characters out of 6139871
+ 152050 words of memory out of 5000000
+ 8830 multiletter control sequences out of 15000+600000
+ 7486 words of font info for 29 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 44i,18n,45p,902b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on Jenny_thesis.pdf (13 pages, 168949 bytes).
+PDF statistics:
+ 102 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
