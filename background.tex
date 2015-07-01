@@ -1,7 +1,18 @@
 \chapter{Background}
 \label{chap:background}
 
-Now we do face big data issue as internet information that we collect and process grows quickly, there are many solutions developed
- to analyze and mine valuable treasure in diverse and useless garbage data. Hadoop is a famous and effective solution for big data, 
-it supply programmer user-friendly processing module. However Storm \cite{Aniello:2013:AOS:2488222.2488267} is a distributed realtime process framework providing reliable 
-and fault tolerant computation. 
+Now we do face big data issue as internet information size that we collect and process grows quickly, currently there are many solutions developed
+ to analyze and mine valuable treasure in diverse and useless garbage data. Hadoop \cite{5496972} and MapReduce \cite{Dean:2008:MSD:1327452.1327492} are famous 
+and effective solutions, they give programmer user-friendly and compact batch processing module. 
+
+Mapreduce mainly involves batch processing technique on shared and parallel cluster meaning it works statically 
+and event triggered. But MapReduce cannot provide low latency response when it process continous and real-time data stream \cite{Babcock:2002:MID:543613.543615}.
+To overcome this disadvantage, several stream processing system have been proposed, e.g. Storm \cite{Aniello:2013:AOS:2488222.2488267}
+ and S4 \cite{5693297}. The abvious difference between MapReduce and Storm is that a MapReduce job will finally finish, while Storm job will keep on working until be stoped by user.  
+
+\section{Storm}
+
+Storm attributes distributed realtime stream processing framework with scalable, reliable and
+ fault tolerant computation, it can act excellently on many use cases like: realtime analytics, online machine learning, ETL, and 
+more. For these surprising features, Many companies such as Twitter choose Storm as solution for data processing. 
+

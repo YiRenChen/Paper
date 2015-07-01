@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.22)  1 JUL 2015 00:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.22)  2 JUL 2015 01:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,18 +618,18 @@ Package pdftex.def Info: figure/nthu-logo.pdf used on input line 134.
 
 ] (./Jenny_thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 5495 strings out of 493304
- 78997 string characters out of 6139871
- 152050 words of memory out of 5000000
- 8830 multiletter control sequences out of 15000+600000
- 7486 words of font info for 29 fonts, out of 8000000 for 9000
+ 5524 strings out of 493304
+ 79348 string characters out of 6139871
+ 152062 words of memory out of 5000000
+ 8850 multiletter control sequences out of 15000+600000
+ 11522 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  44i,18n,45p,902b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Jenny_thesis.pdf (13 pages, 168949 bytes).
+Output written on Jenny_thesis.pdf (13 pages, 174729 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

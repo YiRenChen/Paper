@@ -7,4 +7,28 @@ Leonardo Aniello, Roberto Baldoni, and Leonardo Querzoni.
   Distributed Event-based Systems}, DEBS '13, pages 207--218, New York, NY,
   USA, 2013. ACM.
 
+\bibitem{Babcock:2002:MID:543613.543615}
+Brian Babcock, Shivnath Babu, Mayur Datar, Rajeev Motwani, and Jennifer Widom.
+\newblock Models and issues in data stream systems.
+\newblock In {\em Proceedings of the Twenty-first ACM SIGMOD-SIGACT-SIGART
+  Symposium on Principles of Database Systems}, PODS '02, pages 1--16, New
+  York, NY, USA, 2002. ACM.
+
+\bibitem{Dean:2008:MSD:1327452.1327492}
+Jeffrey Dean and Sanjay Ghemawat.
+\newblock Mapreduce: Simplified data processing on large clusters.
+\newblock {\em Commun. ACM}, 51(1):107--113, January 2008.
+
+\bibitem{5693297}
+L.~Neumeyer, B.~Robbins, A.~Nair, and A.~Kesari.
+\newblock S4: Distributed stream computing platform.
+\newblock In {\em Data Mining Workshops (ICDMW), 2010 IEEE International
+  Conference on}, pages 170--177, Dec 2010.
+
+\bibitem{5496972}
+K.~Shvachko, Hairong Kuang, S.~Radia, and R.~Chansler.
+\newblock The hadoop distributed file system.
+\newblock In {\em Mass Storage Systems and Technologies (MSST), 2010 IEEE 26th
+  Symposium on}, pages 1--10, May 2010.
+
 \end{thebibliography}
