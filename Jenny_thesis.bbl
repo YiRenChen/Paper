@@ -19,6 +19,13 @@ Jeffrey Dean and Sanjay Ghemawat.
 \newblock Mapreduce: Simplified data processing on large clusters.
 \newblock {\em Commun. ACM}, 51(1):107--113, January 2008.
 
+\bibitem{Hunt:2010:ZWC:1855840.1855851}
+Patrick Hunt, Mahadev Konar, Flavio~P. Junqueira, and Benjamin Reed.
+\newblock Zookeeper: Wait-free coordination for internet-scale systems.
+\newblock In {\em Proceedings of the 2010 USENIX Conference on USENIX Annual
+  Technical Conference}, USENIXATC'10, pages 11--11, Berkeley, CA, USA, 2010.
+  USENIX Association.
+
 \bibitem{5693297}
 L.~Neumeyer, B.~Robbins, A.~Nair, and A.~Kesari.
 \newblock S4: Distributed stream computing platform.
